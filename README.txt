@@ -7,7 +7,8 @@ Semestrálny projekt JPD
 |
 |
 |––––––––> 2D_missing_signal.txt -> Súbor obsahuje optimalizované dáta lokalizácie v 
-				    2D pri situáciách chýbajúcich signálov z >1 				    		    satelitov
+				    2D pri situáciách chýbajúcich signálov z >1 				    		
+				    satelitov
 
 
 Jednotné Programovacie Družstvo a.s. (JPD)
